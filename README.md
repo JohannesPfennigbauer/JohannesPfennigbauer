@@ -11,9 +11,9 @@ Here's a glimpse into who I am and what you can expect from my GitHub:
 
 ## My Coding Passions
 
-📱 **App Development**: Dive into my journey of learning and mastering app development. Follow along as I explore various frameworks and tools, striving to transform innovative ideas into tangible applications. </br>
-🔮 **Machine Learning and AI**: I am eager to learn and experiment with Python for data analysis and predictive modeling. What I love the most are the unforeseen insights and results from complex data which can be achieved by machine learning models. </br>
-🎛️ **Interactive Dashboards**: Join me as I learn the art of blending data visualization with user interaction, aiming to craft captivating and informative dashboards that tell compelling stories.
+🔮 **Machine Learning and AI**: Whether experimenting with pre-trained models or building them from scratch, it is always a pleasure to use Python for data analysis and predictive modelling. What I love most are the unforeseen insights and outcomes from complex data that can be achieved with machine learning models. </br>
+📱 **App Development**: My journey of learning and mastering app development has just started. However, I am on a good way to publish my first projects in the near future. Stay tuned! </br>
+🎛️ **Interactive Dashboards**: Data visualisation with user interaction, aiming to create engaging and informative dashboards that tell compelling stories, combines both my interests in development and design in the most beautiful way.
 
 ## Get in Touch
 

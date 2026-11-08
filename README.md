@@ -1,22 +1,24 @@
-Greetings! 👋 
-I'm Johannes, a nature enthusiast and data science student currently delving into the realms of coding. 
-Here's a glimpse into who I am and what you can expect from my GitHub:
+Hi, I'm Johannes 👋
 
-## About Me
+I write software for a living, and the rest of the time I'm usually out in the fields. Most of what you'll find here sits somewhere between those two worlds.
 
-🙂 **Pronouns**: He/Him </br>
-📈 **Background**: With a bachelor's degree in mathematics, I've laid a solid foundation to master my Masters in Data Science and achieve my academic and personal goals. </br>
-🌱 **Interests Beyond Coding**: When I'm not engrossed in coding, you'll often find me in the great outdoors. Either out in the fields farming or at home in the workshop engaged in crafting activities. Hiking is also a cherished  activity that helps me find balance amidst the regular desktop grind. </br>
-🎨 **Side Projects**: As a delightful side project, I indulge in web design and graphics, transforming my passion into a hobby and a business that brings me immense joy and creative fulfillment.
+## About me
 
-## My Coding Passions
+🙂 **Pronouns:** he/him <br>
+📈 **Background:** Bachelor's in mathematics, Master's in data science, both done. <br>
+🐦 **Away from the desk:** Farming, hiking, and lately birding. That one caught me by surprise. You start by wondering what that bird on the fence is, and a few weeks later you're up at dawn with binoculars and a notebook. There is certainly a risk of addiction: you learn by looking, and the longer you look, the more you notice. <br>
+🪚 **Side projects:** Mostly offline at the moment. Arts and crafts, wood, whatever ends up on the workbench. It's a good counterweight to a screen.
 
-🔮 **Machine Learning and AI**: Whether experimenting with pre-trained models or building them from scratch, it is always a pleasure to use Python for data analysis and predictive modelling. What I love most are the unforeseen insights and outcomes from complex data that can be achieved with machine learning models. </br>
-📱 **App Development**: My journey of learning and mastering app development has just started. However, I am on a good way to publish my first projects in the near future. Stay tuned! </br>
-🎛️ **Interactive Dashboards**: Data visualisation with user interaction, aiming to create engaging and informative dashboards that tell compelling stories, combines both my interests in development and design in the most beautiful way.
+## What I'm working on
 
-## Get in Touch
+🌱 **[Cropstar](https://github.com/JohannesPfennigbauer/cropstar)** is an open-source farm management app for regenerative agriculture. It started with a simple question: how did farmers know their land before sales reps had an answer for everything? By watching closely, over years. Cropstar tries to bring some of that back. It doesn't tell you what to do. It shows you what is going on in your field and why. There's a blog on [cropstar.at](https://cropstar.at) where I write about why I'm building it.
 
-I'm always excited about collaboration opportunities, feedback, or just a friendly chat! Don't hesitate to reach out to me via [email](mailto:jpfennigbauer@gmx.at) or connect with me on [LinkedIn](https://www.linkedin.com/in/johannes-pfennigbauer-93882b222/).
+## What I enjoy in code
 
-Let's blend the beauty of nature with the power of data-driven insights! 🌿📊
+📱 **App development** is where I spend most of my time. I like building things people actually use, from the database all the way up to the UI. <br>
+🔮 **Data science** comes along wherever it fits. If there's data behind a problem, I want to model it, visualise it, and ideally let people engage with it themselves. <br>
+🤖 **AI** moves fast right now, and I try to keep up with the state-of-the-art models. Not just reading about them, but using them in my day-to-day work and figuring out where they really help and where they don't.
+
+## Get in touch
+
+Questions, feedback, or ideas for Cropstar or anything else? I'm happy to hear from you. Write me an [email](mailto:j.pfennigbauer@proton.me) or find me on [LinkedIn](https://www.linkedin.com/in/johannes-pfennigbauer-93882b222/).
